@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivy</h1>
-<h3 align="center">A passionate girl who like data science and healthcare knowledge</h3>
+<h3 align="center">A passionate girl who likes data science and healthcare knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiangivyli&label=Profile%20views&color=0e75b6&style=flat" alt="xiangivyli" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xiangivyli](https://github.com/xiangivyli)
 
-- 💬 Ask me about **Modelling and data visualisation**
+- 💬 Ask me about **Modelling and Data Visualisation**
 
 - 📫 How to reach me **xiangivyli@gmail.com**
 
