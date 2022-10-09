@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xiangivyli](https://github.com/xiangivyli)
 
-- 💬 Ask me about **Modelling and Data Visualisation**
+- 💬 Ask me about **Data Clearning, Modelling, Data Visualisation and Insights**
 
 - 📫 How to reach me **xiangivyli@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/xiangivyli/](https://www.linkedin.com/in/xiangivyli/)
 
-- ⚡ Fun fact **I am good at cooking but not a foodie**
+- ⚡ Fun fact **I am good at cooking but not a foodie, I am a dog person but have not kept one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
