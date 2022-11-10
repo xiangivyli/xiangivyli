@@ -8,7 +8,7 @@ Python, R, Excel, or SQL and delivering business insights to my clients with imp
 
 - 👨‍💻 All of my projects are available at [https://github.com/xiangivyli](https://github.com/xiangivyli)
 
-- 💬 Ask me about **Data Clearning, Modelling, Data Visualisation and Insights**
+- 💬 Ask me about **Data Cleansing, Modelling, Data Visualisation and Insights**
 
 - 📫 How to reach me **xiangivyli@gmail.com**
 
