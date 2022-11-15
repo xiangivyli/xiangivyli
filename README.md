@@ -4,7 +4,7 @@ Python, R, Excel, or SQL and delivering business insights to my clients with imp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiangivyli&label=Profile%20views&color=0e75b6&style=flat" alt="xiangivyli" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning with Andrew Ng**
+- 🌱 I’m currently learning **SQL Server Fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xiangivyli](https://github.com/xiangivyli)
 
