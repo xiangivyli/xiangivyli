@@ -6,7 +6,7 @@ Python, R, Excel, or SQL and delivering business insights to my clients with imp
 
 - 🌱 I’m currently learning **SQL Server Fundamentals**
 
-- 👨‍💻 All of my projects are available at [https://github.com/xiangivyli](https://github.com/xiangivyli)
+- 👨‍💻 All of my projects are available at [https://github.com/xiangivyli/Data-Science-Portfolio](https://github.com/xiangivyli/Data-Science-Porfolio)
 
 - 💬 Ask me about **Databases, Data Analysis, Data Visualisation and Business Intelligence**
 
