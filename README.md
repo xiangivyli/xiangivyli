@@ -8,7 +8,7 @@ Python, R, Excel, or SQL and delivering business insights to my clients with imp
 
 - 👨‍💻 All of my projects are available at [https://github.com/xiangivyli/Data-Science-Portfolio](https://github.com/xiangivyli/Data-Science-Porfolio)
 
-- 😀 My personal website is xiangivyli.com
+- 😀 My personal website is [xiangivyli.com](xiangivyli.com)
 
 - 💬 Ask me about **Databases, Data Analysis, Data Visualisation and Business Intelligence**
 
