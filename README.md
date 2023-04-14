@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivy</h1>
-<h3 align="center">A passionate girl who likes data science and has worked as a healthcare analyst for two years. I enjoy sorting out data with 
-Python, R, Excel, or SQL and delivering business insights to my clients with impressive data visualisation. I am looking for a job as a business intelligence analyst or data analyst.</h3>
+<h3 align="center">A passionate girl who likes data science and has worked as a data analyst for two years. I enjoy sorting out data with 
+Python, Excel, or SQL and delivering business insights to my clients with impressive data visualisation. I am looking for a job as a business intelligence analyst or data analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiangivyli&label=Profile%20views&color=0e75b6&style=flat" alt="xiangivyli" /> </p>
 
