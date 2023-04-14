@@ -10,6 +10,8 @@ Python, R, Excel, or SQL and delivering business insights to my clients with imp
 
 - 😀 My personal website is [xiangivyli.com](https://www.xiangivyli.com)
 
+- 😉 My Power BI portfolio is [https://www.novypro.com/profile_projects/xiangivyli](https://www.novypro.com/profile_projects/xiangivyli)
+
 - 💬 Ask me about **Databases, Data Analysis, Data Visualisation and Business Intelligence**
 
 - 📫 How to reach me **xiangivyli@gmail.com**
