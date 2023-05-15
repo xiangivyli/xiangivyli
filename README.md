@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiangivyli&label=Profile%20views&color=0e75b6&style=flat" alt="xiangivyli" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xiangivyli/Data-Science-Portfolio](https://github.com/xiangivyli/Data-Science-Porfolio)
 
