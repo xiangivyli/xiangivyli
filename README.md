@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Databases, Data Analysis, Data Visualisation and Business Intelligence**
 
-- 📫 How to reach me **xiangivyli@gmail.com**
+- 📫 How to reach me **https://xiangivyli@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/xiangivyli/](https://www.linkedin.com/in/xiangivyli/)
 
