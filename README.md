@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivy</h1>
-<h3 align="center">As a lifelong learner with a passion for data science and a scientific background, I have honed my data analysis skills and maintained databases for two years. I am now seeking a data role in a data architecture environment, where I can continue building a ‘cosy’ home for data and contribute my expertise to a dynamic team.</h3>
+<h3 align="center">As a lifelong learner with a passion for information technology and a scientific background, I have honed my data governance skills and maintained databases for two years. I am now seeking a data engineer/backend engineer/data modeller role in a data architecture environment, where I can continue building a ‘cosy’ home for data and contribute my expertise to a dynamic team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiangivyli&label=Profile%20views&color=0e75b6&style=flat" alt="xiangivyli" /> </p>
 
