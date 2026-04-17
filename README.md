@@ -164,13 +164,44 @@
       </a>
     </td>
     <td>
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://duckdb.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg" alt="duckdb" width="40" height="40"/>
       </a>
     </td>
     <td>
       <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="both" />
+
+<h4 align="left">Data Orchestration:</h4>
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="both" />
+
+<h4 align="left">Agile:</h4>
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
       </a>
     </td>
   </tr>
